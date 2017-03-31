@@ -1,6 +1,6 @@
 {
     "appSecret": "",
     "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "validationToken": "carles_pera",
+    "serverURL": "https://github.com/CarlesPera/messenger-platform-samples-master.git"
 }
